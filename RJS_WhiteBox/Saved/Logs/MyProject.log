@@ -242,3 +242,96 @@ LogInit: Object subsystem initialized
 [2019.01.23-15.10.43:845][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2019.01.23-15.10.43:845][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2019.01.23-15.10.43:845][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.23-15.10.46:133][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.23-15.10.46:432][  0]LogDerivedDataCache: Loaded boot cache 0.30s 71MB C:/Users/u1001862/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.23-15.10.46:432][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1001862/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.23-15.10.46:433][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1001862/Documents/GitHub/RJS_AssetPipeline/RJS_WhiteBox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.23-15.10.46:433][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.23-15.10.46:433][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1001862/Documents/GitHub/RJS_AssetPipeline/RJS_WhiteBox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.23-15.10.46:433][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.23-15.10.46:460][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.23-15.10.46:473][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1001862/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.23-15.10.46:473][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.23-15.10.46:473][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.23-15.10.46:496][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.23-15.10.46:502][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.23-15.10.46:520][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.23-15.10.46:811][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2019.01.23-15.10.47:224][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.23-15.10.47:585][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.23-15.10.47:611][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.23-15.10.47:611][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.23-15.10.47:612][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.23-15.10.47:612][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.23-15.10.47:682][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2019.01.23-15.10.49:165][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.102678 seconds
+[2019.01.23-15.10.49:173][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.23-15.10.49:173][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.01.23-15.10.49:173][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.23-15.10.52:794][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.23-15.10.52:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.23-15.10.53:147][  0]SourceControl: Source control is disabled
+[2019.01.23-15.10.53:147][  0]SourceControl: Source control is disabled
+[2019.01.23-15.10.53:160][  0]SourceControl: Source control is disabled
+[2019.01.23-15.10.53:166][  0]SourceControl: Source control is disabled
+[2019.01.23-15.10.53:510][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.23-15.10.53:633][  0]LogOcInput: OculusInput pre-init called
+[2019.01.23-15.10.53:760][  0]LogEngine: Initializing Engine...
+[2019.01.23-15.10.53:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.23-15.10.53:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.23-15.10.53:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.23-15.10.53:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.23-15.10.53:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.23-15.10.54:234][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.23-15.10.54:268][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.23-15.10.54:307][  0]LogInit: XAudio2 using '4 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.23-15.10.54:381][  0]LogInit: FAudioDevice initialized.
+[2019.01.23-15.10.54:381][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.23-15.10.54:459][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/u1001862/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.23-15.10.54:480][  0]LogInit: Texture streaming: Enabled
+[2019.01.23-15.10.54:505][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.23-15.10.54:530][  0]LogInit: Transaction tracking system initialized
+[2019.01.23-15.10.54:598][  0]BlueprintLog: New page: Editor Load
+[2019.01.23-15.10.54:828][  0]LocalizationService: Localization service is disabled
+[2019.01.23-15.10.55:567][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.23-15.10.55:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1001862/Documents/GitHub/RJS_AssetPipeline/RJS_WhiteBox/Content/' took 0.01s
+[2019.01.23-15.10.55:568][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.23-15.10.55:568][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.23-15.10.55:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.23-15.10.55:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.23-15.10.55:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.23-15.10.55:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.23-15.10.55:908][  0]SourceControl: Source control is disabled
+[2019.01.23-15.10.55:909][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.23-15.10.55:916][  0]LightingResults: New page: Lighting Build
+[2019.01.23-15.10.55:927][  0]MapCheck: New page: Map Check
+[2019.01.23-15.10.55:927][  0]LightingResults: New page: Lighting Build
+[2019.01.23-15.10.56:285][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.23-15.10.56:310][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.23-15.10.56:335][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.23-15.10.56:406][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.975ms to complete.
+[2019.01.23-15.10.56:406][  0]LogFileHelpers: Loading map 'Template_Default' took 0.497
+[2019.01.23-15.10.56:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-15.10.56:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-15.10.56:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-15.10.56:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.23-15.10.56:664][  0]LogCollectionManager: Loaded 0 collections in 0.001959 seconds
+[2019.01.23-15.10.56:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1001862/Documents/GitHub/RJS_AssetPipeline/RJS_WhiteBox/Saved/Collections/' took 0.01s
+[2019.01.23-15.10.56:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1001862/Documents/GitHub/RJS_AssetPipeline/RJS_WhiteBox/Content/Developers/u1001862/Collections/' took 0.01s
+[2019.01.23-15.10.56:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1001862/Documents/GitHub/RJS_AssetPipeline/RJS_WhiteBox/Content/Collections/' took 0.01s
+[2019.01.23-15.10.56:728][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.23-15.10.56:741][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2572 classes and 603 folders.
+[2019.01.23-15.10.56:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.23-15.10.57:210][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.23-15.10.57:224][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.23-15.10.57:290][  0]LogSlate: Took 0.007111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.23-15.10.57:298][  0]LogSlate: Took 0.006259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.23-15.10.57:311][  0]LogSlate: Took 0.005616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.23-15.10.57:464][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.23-15.10.57:675][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.23-15.10.57:675][  0]LogLoad: (Engine Initialization) Total time: 24.77 seconds
+[2019.01.23-15.10.57:675][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.23-15.10.57:714][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.23-15.10.57:772][  1]LogAssetRegistry: Asset discovery search completed in 10.9840 seconds
+[2019.01.23-15.10.57:774][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.23-15.10.57:774][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
